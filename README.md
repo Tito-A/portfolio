@@ -1,2 +1,2 @@
 # portfolio
-https://github.com/Tito-A/portfolio/tree/main/portfolio
+https://Tito-A.github.io/portfolio/
