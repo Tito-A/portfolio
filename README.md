@@ -1,2 +1,2 @@
 # portfolio
-basic html
+https://github.com/Tito-A/portfolio/tree/main/portfolio
